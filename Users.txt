@@ -1,0 +1,7 @@
+marion|1234|Admin
+steven|4444|user
+steve|123456|Admin
+logalogan|789|Admin
+yannis|8484|Admin
+newuser|trumpet23|admin
+sherry|goalie76|user
